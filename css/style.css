@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+#main {
+  position: relative;
+}
+#header .navbar {
+  border-bottom: 1px solid #c9c9c9;
+}
+
+#header .navbar-brand img {
+  width: 280px;
+  height: 80px;
+}
+#content {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #c9c9c9;
+}
+#footer a {
+  text-decoration: none;
+  color: #858585;
+}
+#footer .col-sm-2 h6 {
+  margin-bottom: 15px !important;
+}
+#footer .jumbotron {
+  background-color: white;
+}
+#footer #blog {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
